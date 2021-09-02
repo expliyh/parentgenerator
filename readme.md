@@ -1,5 +1,7 @@
 # 家长生成器 ParentGenerator #
 
+Fork from AkaraChen/parentgenerator
+
 填几个词就能生成如下文章：
 
 > 2021年9月1日，王女士向我社反应，自己的孩子小王一到周末就玩电脑，每天都盯着一个黑色界面看一下午。我社记者随即安排进入调查。
