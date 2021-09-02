@@ -12,4 +12,4 @@ Fork from AkaraChen/parentgenerator
 
 ## 项目运行 ##
 
-`git clone https://github.com/AkaraChen/parentgenerator.git && cd parentgenerator && npm install && npm run dev`
+`git clone https://github.com/expliyh/parentgenerator.git && cd parentgenerator && npm install && npm run dev`
